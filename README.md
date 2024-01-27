@@ -1,5 +1,6 @@
 > [!IMPORTANT]
-> This is a educational project made by Joel Hellberg. 
+> This is a educational project made by Joel Hellberg.
+> With the intent to learn basic API operations.
 <br>
 
 # LoanAPI
