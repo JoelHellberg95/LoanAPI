@@ -10,7 +10,7 @@
 >
 >It has hardcoded components such as the loan applications and it can be easily modified in the loanscontroller.
 >
->Do note this project is not ment to be a bestpractice or have alot of errorhandeling, its merely a beginning of learning how to create API's.
+>This project is not ment to be a best practice or have alot of error handeling, its merely a beginning of learning how to create API's.
 <br>
 
 ## Testade CRUD Funktioner i APIet
