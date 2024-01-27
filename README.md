@@ -7,7 +7,9 @@
 
 >[!NOTE]
 >I've created a API that will handle loan applications for a bank.
+>
 >It has hardcoded components such as the loan applications and it can be easily modified in the loanscontroller.
+>
 >Do note this project is not ment to be a bestpractice or have alot of errorhandeling, its merely a beginning of learning how to create API's.
 <br>
 
